@@ -1,0 +1,2 @@
+The project's major goal is to eliminate the bias in the nwp model. I'm utilising a data set from the uci nwp model output here.
+I will update you on the status of this project as it nears completion. This problem statement was obtained from the smart indian hackathon. We are unable to participate in the programme owing to technical difficulties.
